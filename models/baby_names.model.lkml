@@ -10,6 +10,4 @@ datagroup: baby_names_default_datagroup {
 
 persist_with: baby_names_default_datagroup
 
-explore: connection_reg_r3 {}
-
 explore: names_2020 {}
